@@ -56,6 +56,7 @@ texttable
 typing_extensions
 tzdata
 urllib3
+uvicorn
 vine
 wcwidth
 websocket-client
